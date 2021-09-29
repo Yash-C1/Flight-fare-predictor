@@ -1,0 +1,25 @@
+body {
+    background-image: url('https://wallpapercave.com/wp/0VWqbxa.jpg');
+    background-size: 100%;
+    text-align: center;
+}
+
+.navbar {
+    background-color: #333333;
+}
+
+a {
+    color: #f0f0f0;
+}
+
+a:hover {
+    color: #f0f0f0;
+  }
+
+.card{
+    background-color : rgba(0, 0, 0, 0.4);
+}
+
+.card-title{
+    color : white;
+}
